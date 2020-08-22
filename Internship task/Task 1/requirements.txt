@@ -1,0 +1,8 @@
+
+**Note**:
+
+1) Machine should be loaded with Python software preferably latest version i.e., Python 3.7
+
+2) Prerequisite packages required for executing the 'Weather_Update.py' are stated below and correspondingly installation snippet is provided.
+  requests :  pip install requests
+  openpyxl : pip install openpyxl
